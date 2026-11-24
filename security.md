@@ -284,7 +284,7 @@ any stored ban record.
 
 ---
 
-*escape-from-tarkov-anchor · Updated 2026-11-23 · Shared under the MIT License*
+*escape-from-tarkov-anchor · Updated 2026-11-24 · Shared under the MIT License*
 
 
-*Last updated: 2026-11-23*
+*Last updated: 2026-11-24*
